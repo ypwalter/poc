@@ -1,0 +1,7 @@
+# default: +phone,+auto,+manual,non-category
+test1,stringray,auto
+test2,stringray,manual
+test3,manual,category1
+test4,category2,auto
+test5,category3,auto
+test6,stringray,category1,manual
